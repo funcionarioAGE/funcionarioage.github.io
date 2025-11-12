@@ -1,2 +1,3 @@
 # funcionarioage.github.io
-Diario de un funcionario de la AGE.
+Historias de un funcionario de la AGE.
+Diario del dia a dia de un funcionario público.
